@@ -1,5 +1,4 @@
-# zpackBackEnd
-Zpack  Website &amp; Control Panel v1
+# Zpack  Website &amp; Control Panel v1
 
 Bu platform üzerinden insanlar üye olsun veya olmasın diledikleri gibi yazmak istediklerini yazabilir
 sonrasında kaydedip kaldığı yerden devam edebilir,insanlarla paylaşmak isterse paylaşabilir.
