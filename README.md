@@ -17,3 +17,13 @@ işlemleri görüntüliyebilir,yazılan metinleri görüntüliyebilir,silebilir,
 görüntüliyebilir,yetkili kullanıcı ekliyebilir,düzenliyebilir ve kullanıcı silebilir.Moderatör kullanıcılar yetkili
 kullanıcı ekliyemez,kullanıcıları göremez ve silemezler.Yazılan metinleri görüntileyemezler fakat gelen rapor-
 ları görüntüliyebilir gerekli işlemi sağlıyabilir ve mesajları görüntüliyebilirler.
+
+
+Kullanılan Kutuphaneler 
+
+ Bootstrap
+ SweetAlert
+ Jquery
+ FontAwesome
+ Sb-Admin-Template
+ 
